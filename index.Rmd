@@ -1,5 +1,5 @@
 ---
-title: "Notre Projet"
+title: "Notre Projet!"
 author: "T. Giraud, N. Lambert, R. Ysebaert"
 date: "22/06/2021"
 output: 
